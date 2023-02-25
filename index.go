@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("it's over 9999!")
+	println("it's over 10000!")
 }
